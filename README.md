@@ -1,5 +1,6 @@
 # .bashrc Configuration
 
 ```bash
-$ wget https://raw.githubusercontent.com/DenisCarriere/.bashrc/master/.bashrc -O $HOME/.bashrc
+$ curl -R https://raw.githubusercontent.com/DenisCarriere/.bashrc/master/.bashrc >> $HOME/.bashrc
+$ source $HOME/.bashrc
 ```
