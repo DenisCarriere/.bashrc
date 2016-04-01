@@ -1,6 +1,6 @@
 # .bashrc Configuration
 
-![Preview](https://cloud.githubusercontent.com/assets/550895/14197009/e711f252-f797-11e5-8d1c-58058ae0c11a.png)
+![Preview](https://cloud.githubusercontent.com/assets/550895/14197020/0f84c26e-f798-11e5-8941-5d988141c23e.png)
 
 ## Install
 
