@@ -4,10 +4,20 @@
 
 ## Install
 
+**On Linux**
+
 ```bash
 $ curl -R https://raw.githubusercontent.com/DenisCarriere/.bashrc/master/.bashrc >> $HOME/.bashrc
 $ source $HOME/.bashrc
 ```
+
+**On Mac**
+
+```bash
+$ curl -R https://raw.githubusercontent.com/DenisCarriere/.bashrc/master/.bashrc >> $HOME/.bash_profile
+$ source $HOME/.bash_profile
+```
+
 ## .bashrc Configuration
 
 ```bash
