@@ -9,7 +9,8 @@ $ wget https://raw.githubusercontent.com/DenisCarriere/.bashrc/master/.bashrc -O
 ```bash
 # Make ls use colors
 export CLICOLOR=1
-alias ls='ls -Fa'
+alias ls='ls -Fa --color=auto'
+alias grep='grep --color=auto'
 
 # define colors
 C_DEFAULT="\[\033[m\]"
